@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{alonso2001patrones}
+Roberto Alonso, Ariel Rodr{\'\i}guez-G{\'o}mez, and Alberto~R Estrada.
+\newblock Patrones de actividad ac{\'u}stica y tr{\'o}fica de machos cantores
+  de eleutherodactylus eileenae (anura: Leptodactylidae).
+\newblock {\em Revista espa{\~n}ola de herpetolog{\'\i}a}, 15(2001):45--52,
+  2001.
+
+\bibitem{chau2017inverse}
+H~Chau~Nguyen, Riccardo Zecchina, and Johannes Berg.
+\newblock Inverse statistical problems: from the inverse ising problem to data
+  science.
+\newblock {\em Advances in Physics}, 66(3):197--261, 2017.
+
+\bibitem{costa2021comparing}
+Luciano da~F Costa.
+\newblock Comparing cross correlation-based similarities.
+\newblock {\em arXiv preprint arXiv:2111.08513}, 2021.
+
+\bibitem{zeng2013maximum}
+Hong-Li Zeng, Mikko Alava, Erik Aurell, John Hertz, and Yasser Roudi.
+\newblock Maximum likelihood reconstruction for ising models with asynchronous
+  updates.
+\newblock {\em Physical review letters}, 110(21):210601, 2013.
+
+\bibitem{zhang2021acoustic}
+Tao Zhang, Guoqing Feng, Jinhua Liang, and Tong An.
+\newblock Acoustic scene classification based on mel spectrogram decomposition
+  and model merging.
+\newblock {\em Applied Acoustics}, 182:108258, 2021.
+
+\end{thebibliography}
