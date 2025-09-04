@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex build/jcematcom"] 1744772248.95086 "build/jcematcom.aux" "build/jcematcom.bbl" "build/jcematcom" 1745880695.59209 0
+["bibtex build/jcematcom"] 1744772248.95086 "build/jcematcom.aux" "build/jcematcom.bbl" "build/jcematcom" 1747173040.44493 0
   "./build/sample.bib" 1744520696 4947 601db609928c86dc7dce70e6e1be5684 ""
   "C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "build/jcematcom.aux" 1745880693 4700 0eea1ccdea5bd22634155a332902462a "pdflatex"
+  "build/jcematcom.aux" 1747173038 4700 0eea1ccdea5bd22634155a332902462a "pdflatex"
   (generated)
   "build/jcematcom.bbl"
   "build/jcematcom.blg"
   (rewritten before read)
-["pdflatex"] 1745880686.21779 "d:/Escuela/CComputación/Cuarto Año/JCE2/Report/jcematcom.tex" "build/jcematcom.pdf" "jcematcom" 1745880695.59386 0
-  "C:/Users/DanielHP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1745872080 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1747173029.2311 "d:/Escuela/CComputación/Cuarto Año/JCE2/Detecting-Interactions.-JCE-MatCom/Report/jcematcom.tex" "build/jcematcom.pdf" "jcematcom" 1747173040.44593 0
+  "C:/Users/DanielHP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746756201 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/DanielHP/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0700.pk" 1728289518 8268 f04ec4a2ad8740a030804c24d00d9e0f ""
   "C:/Users/DanielHP/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743781400 12037581 218a50ed939c5118c97c5205fb74cb13 ""
   "C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm0700.tfm" 993062506 1452 97bdc98984cb373fbcd868e2fa55f5f2 ""
@@ -149,11 +149,11 @@
   "assets/mel-spectrogram.png" 1730050728 193480 cd890be8a4699eb676dc807e01ff2c83 ""
   "assets/mic_map.jpg" 1729544304 84774 cb4c442b1866db29f5830c66b0027806 ""
   "assets/sequence.png" 1744762616 80860 6c94f3ae28164e7036c9d2512178b9a6 ""
-  "build/jcematcom.aux" 1745880693 4700 0eea1ccdea5bd22634155a332902462a "pdflatex"
+  "build/jcematcom.aux" 1747173038 4700 0eea1ccdea5bd22634155a332902462a "pdflatex"
   "build/jcematcom.bbl" 1744772249 1280 4ad691f4b33e68e20526a2a7e38390c7 "bibtex build/jcematcom"
-  "build/jcematcom.out" 1745880693 1008 434efd38e2ce6e9aaea3579fff688be0 "pdflatex"
+  "build/jcematcom.out" 1747173038 1008 434efd38e2ce6e9aaea3579fff688be0 "pdflatex"
   "build/jcematcom.sty" 1744495100 12211 19d2dc953da13398ceaac43a75a5d0ce ""
-  "d:/Escuela/CComputación/Cuarto Año/JCE2/Report/jcematcom.tex" 1744772236 30648 059eb9fc944ad346428edb73b5192c06 ""
+  "d:/Escuela/CComputación/Cuarto Año/JCE2/Detecting-Interactions.-JCE-MatCom/Report/jcematcom.tex" 1744772236 30648 059eb9fc944ad346428edb73b5192c06 ""
   "jcematcom.tex" 1744772236 30648 059eb9fc944ad346428edb73b5192c06 ""
   (generated)
   "build/jcematcom.aux"

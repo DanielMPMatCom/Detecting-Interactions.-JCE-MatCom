@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.4)  28 APR 2025 18:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.4)  13 MAY 2025 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Escuela/CComputación/Cuarto Año/JCE2/Report/jcematcom.tex"
-(d:/Escuela/CComputación/Cuarto Año/JCE2/Report/jcematcom.tex
+**"d:/Escuela/CComputación/Cuarto Año/JCE2/Detecting-Interactions.-JCE-MatCom/Report/jcematcom.tex"
+(d:/Escuela/CComputación/Cuarto Año/JCE2/Detecting-Interactions.-JCE-MatCom/Report/jcematcom.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (C:\Users\DanielHP\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -96,7 +96,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ) (C:\Users\DanielHP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (d:\Escuela\CComputación\Cuarto Año\JCE2\Report\build\jcematcom.sty
+) (d:\Escuela\CComputación\Cuarto Año\JCE2\Detecting-Interactions.-JCE-MatCom\Report\build\jcematcom.sty
 Document Style `jcematcom' -- Febrero 2013.
 (C:\Users\DanielHP\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/03/27 v25.6 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
@@ -384,7 +384,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 44.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count321
 \l__pdf_internal_box=\box58
-) (d:\Escuela\CComputación\Cuarto Año\JCE2\Report\build\jcematcom.aux
+) (d:\Escuela\CComputación\Cuarto Año\JCE2\Detecting-Interactions.-JCE-MatCom\Report\build\jcematcom.aux
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 LaTeX Info: Redefining \. on input line 16.
@@ -476,7 +476,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Users\DanielHP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 86.
- (d:\Escuela\CComputación\Cuarto Año\JCE2\Report\build\jcematcom.out) (d:\Escuela\CComputación\Cuarto Año\JCE2\Report\build\jcematcom.out)
+ (d:\Escuela\CComputación\Cuarto Año\JCE2\Detecting-Interactions.-JCE-MatCom\Report\build\jcematcom.out) (d:\Escuela\CComputación\Cuarto Año\JCE2\Detecting-Interactions.-JCE-MatCom\Report\build\jcematcom.out)
 \@outlinefile=\write3
 \openout3 = `jcematcom.out'.
 
@@ -586,7 +586,7 @@ Underfull \vbox (badness 3815) has occurred while \output is active []
 
 [4 <./assets/matrix_jij.jpg>]
 
-(d:\Escuela\CComputación\Cuarto Año\JCE2\Report\build\jcematcom.bbl
+(d:\Escuela\CComputación\Cuarto Año\JCE2\Detecting-Interactions.-JCE-MatCom\Report\build\jcematcom.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 17--20
 []\OT1/cmr/m/n/10 Luciano da F Cos-ta.  Com-pa-ring cross
  []
@@ -598,7 +598,7 @@ Underfull \hbox (badness 3250) in paragraph at lines 17--20
 
 )
 
-[5 <./assets/corr_graph.jpg> <./assets/3_matrixs.jpg> <./assets/3_graphs.jpg>] (d:\Escuela\CComputación\Cuarto Año\JCE2\Report\build\jcematcom.aux
+[5 <./assets/corr_graph.jpg> <./assets/3_matrixs.jpg> <./assets/3_graphs.jpg>] (d:\Escuela\CComputación\Cuarto Año\JCE2\Detecting-Interactions.-JCE-MatCom\Report\build\jcematcom.aux
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 LaTeX Info: Redefining \. on input line 16.
@@ -615,14 +615,14 @@ Package rerunfilecheck Info: File `jcematcom.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  15454 strings out of 473522
- 248249 string characters out of 5713158
+ 248914 string characters out of 5713158
  674594 words of memory out of 5000000
  38440 multiletter control sequences out of 15000+600000
  569902 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,12n,93p,917b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,93p,952b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\DanielHP\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/DanielHP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "d:\Escuela\CComputación\Cuarto Año\JCE2\Report\build\jcematcom.pdf" (5 pages, 875847 bytes).
+Output written on "d:\Escuela\CComputación\Cuarto Año\JCE2\Detecting-Interactions.-JCE-MatCom\Report\build\jcematcom.pdf" (5 pages, 875847 bytes).
 PDF statistics:
  216 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
